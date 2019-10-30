@@ -15,7 +15,7 @@
               `--'   `--'
 
 
-Cat(meow, meow) detection for Linux Keyboards
+Cat(meow, meow) detection for Linux keyboards
 
 Current feature : 
 
