@@ -17,6 +17,8 @@
 
 Cat(meow, meow) detection for Linux keyboards
 
+Everything is fun and games till your cat types rm -rf /
+
 Current feature : 
 
 Detects repeated keypresses and locks the computer to stop more keys from being pressed. 
